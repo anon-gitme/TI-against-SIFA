@@ -1,0 +1,11 @@
+.DS_Store
+*.hex
+*.bin
+*.eep
+*.elf
+*.lss
+*.map
+*.sym
+.dep
+objdir-*
+*.pyc
